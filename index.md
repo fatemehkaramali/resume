@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/87928954?s=400&u=18c74a0db02e57b9de24e0f55cb7fee7ff615dfd&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/fatemehkaramali/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <h1> درباره ی من</h1>
+  <p> من فاطمه کرمعلی ،دانشجوی ڪارشناسی رشته ی مهندسی نرم افزار در دانشگاه پیام نور تهران شمال هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:فاطمهی</li>
+  <li>نام خانوادگے:  کرمعل</li>
+  <li>تاریخ تولد: 1379/09/05</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</ul>
+  
+<h1>مهارت ها</h1>
 
-### Markdown
+<ul>
+    <li>والیبال</li>
+    <li>،تکواندو</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>علایق </h1>
+<ul>
+ <li> کتاب خوندن</li>
+ <li> ورزش</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>هیچی</li>
+</ul>
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+   -Gmail :studentcomputer08@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehkaramali/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      - رزومه ی انگلیسی: <a href=" "> Resume </a>
+</ul>
