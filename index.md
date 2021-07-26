@@ -42,5 +42,5 @@
 <ul>
    -Gmail :studentcomputer08@gmail.com
 
-      - رزومه ی انگلیسی: <a href=" "> Resume </a>
+      - رزومه ی انگلیسی: <a href="https://fatemehkaramali.github.io/resume.EN/"> Resume </a>
 </ul>
